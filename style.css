@@ -81,6 +81,10 @@ iframe {
 .digital {
   border-radius: 25px;
 }
+.gr-8, .gr-10, .gr-12 {
+  width: 300px;
+  height: auto;
+}
 
 /*.gr1 {
     grid-row: 1;
