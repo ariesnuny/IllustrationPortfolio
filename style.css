@@ -31,12 +31,12 @@
 
 .girante1 {
   left: 47.5vw;
-  animation: aumento 1.5s ease-in-out 50ms 4 normal forwards;
+  animation: aumento 1.5s ease-in-out 100ms 4 normal forwards;
 }
 
 .girante2 {
   left: 55vw;
-  animation: aumento 1.5s ease-in-out 40ms 4 normal forwards;
+  animation: aumento 1.5s ease-in-out 150ms 4 normal forwards;
 }
 
 .load {
